@@ -29,6 +29,8 @@ Created game in pygame on similar way to crossy road.
   - Enemy speed **increases**
  2. Achieving a score of 10 
   - You **can't use** <kbd>a</kbd> and <kbd>d</kbd>
+ 3. Change random colors of **player**, **screen**, **enemies** and **fonts**
+ 4. Change random **background music**
  
  ## Usage 
  
