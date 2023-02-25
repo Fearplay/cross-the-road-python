@@ -25,10 +25,10 @@ class Player(Screen):
         self.list_of_colors = [COLOR_ONE, COLOR_TWO, COLOR_THREE, COLOR_FOUR]
         # Set size of our player
         self.size = size
-        self.rect_width = self.screen_width // 2
-        self.rect_height = self.screen_height - self.size
+        self.rect_left = self.screen_width // 2
+        self.rect_top = self.screen_height - self.size
         # Set our player
-        self.rect = pygame.Rect(self.rect_width, self.rect_height, self.size, self.size)
+        self.rect = pygame.Rect(self.rect_left, self.rect_top, self.size, self.size)
         # Set random color from our list
         self.color = random.choice(self.list_of_colors)
         # Set lives of player
@@ -41,8 +41,8 @@ class Player(Screen):
         pygame.draw.rect(self.display_surface, self.color, self.rect)
 
     def set_initial_position(self):
-        self.rect.x = self.rect_width
-        self.rect.y = self.rect_height
+        self.rect.x = self.rect_left
+        self.rect.y = self.rect_top
 
     # Method for resetting after player death
     def reset_player_died(self):
