@@ -20,7 +20,7 @@ Created game in pygame on similar way to crossy road.
   ``
 ## General
  * You're trying to get your player [**small square**] to the finish line, which is all the way up. 
- * Meanwhile, the enemy [big square] is coming from the right. Every time you touch the finish line, you get one more point. 
+ * Meanwhile, the enemy [**big square**] is coming from the right. Every time you touch the finish line, you get one more point. 
  * The game ends when you touch an enemy 3 times.
  
  ## Game Features 
