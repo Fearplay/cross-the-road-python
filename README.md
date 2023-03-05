@@ -51,8 +51,8 @@ Created game in pygame on similar way to crossy road.
   - I used [Font Space](https://www.fontspace.com/commercial-fonts)
 
 ## Other
-* If you find any issue, please don't hestitate to report it via [Issues](https://github.com/Fearplay/cross-the-road-python/issues)
-* If you have idea to improve this game, please don't hestitate to create pull request via [Pull requests](https://github.com/Fearplay/cross-the-road-python/pulls)
+* If you find any issue, please don't hesitate to report it via [Issues](https://github.com/Fearplay/cross-the-road-python/issues)
+* If you have an idea to improve this game, please don't hesitate to create pull request via [Pull requests](https://github.com/Fearplay/cross-the-road-python/pulls)
 * Thanks to all :green_heart:
 
 [Back to TOP](#cross-the-road-python)
