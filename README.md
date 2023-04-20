@@ -1,5 +1,5 @@
 # cross-the-road-python
-Created game in pygame on similar way to crossy road.
+Created game in pygame on similar way to crossy road. I have rewritten this application into a [WPF application](https://github.com/Fearplay/Cube-Climber).
 ## Index
 - [Get the app](#get-the-app)
 - [Screenshot](#screenshot)
@@ -32,7 +32,7 @@ Created game in pygame on similar way to crossy road.
   - Chance to spawn enemy is **greater**
   - Enemy speed **increases**
  2. Achieving a score of 10 
-  - You **can't use** <kbd>a</kbd> and <kbd>d</kbd>
+  - You **can't use** <kbd>A</kbd> and <kbd>D</kbd>
  3. Change random colors of **player**, **screen**, **enemies** and **fonts**
  4. Change random **background music**
  
@@ -40,10 +40,10 @@ Created game in pygame on similar way to crossy road.
  
 | MOVE | MAIN BUTTON | SECOND BUTTON |
 | :---         |     :---:      |          :---:    |
-| **up**       |<kbd>w</kbd>    |<kbd>&uarr;</kbd> |
-| **left**     |<kbd>a</kbd>   |<kbd>&larr;</kbd>  |
-| **down**     |<kbd>s</kbd>   |<kbd>&darr;</kbd>  |
-| **right**    |<kbd>d</kbd>   |<kbd>&rarr;</kbd>  |
+| **up**       |<kbd>W</kbd>    |<kbd>&uarr;</kbd> |
+| **left**     |<kbd>A</kbd>   |<kbd>&larr;</kbd>  |
+| **down**     |<kbd>S</kbd>   |<kbd>&darr;</kbd>  |
+| **right**    |<kbd>D</kbd>   |<kbd>&rarr;</kbd>  |
 
 
  ## Resources
