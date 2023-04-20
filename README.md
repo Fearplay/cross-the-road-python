@@ -1,6 +1,7 @@
 # cross-the-road-python
 Created game in pygame on similar way to crossy road.
 ## Index
+- [Get the app](#get-the-app)
 - [Screenshot](#screenshot)
 - [Requirements](#requirements)
 - [General](#general)
@@ -8,6 +9,9 @@ Created game in pygame on similar way to crossy road.
 - [Usage](#usage)
 - [Resources](#resources)
 - [Other](#other)
+
+## Get the app
+- [Microsoft Store](https://www.microsoft.com/en-us/p/cube-climber/9pf41r70pph5?activetab=pivot:overviewtab)
 
 ## Screenshot
 ![screenshot](resources/image/screenshot.PNG)
